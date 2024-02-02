@@ -14,13 +14,6 @@ let songIndex = 0;
 // Songs info
 const songs = [
   {
-    title: 'Greatest Songs',
-    artist: 'Elevation Worship',
-    coverPath: 'images/cover1.jpg',
-    discPath: 'music/music12.mp3',
-    duration: '1:54',
-  },
-  {
     title: 'One Name',
     artist: 'Naomi Raine',
     coverPath: 'images/cover1.jpg',
@@ -95,6 +88,13 @@ const songs = [
     artist: 'Benjamin Dube FT Spirit of Praise',
     coverPath: 'images/cover2.jpg',
     discPath: 'music/music6.mp3',
+    duration: '1:54',
+  },
+  {
+    title: 'Greatest Songs',
+    artist: 'Elevation Worship',
+    coverPath: 'images/cover1.jpg',
+    discPath: 'music/music12.mp3',
     duration: '1:54',
   },
 ];
