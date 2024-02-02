@@ -14,13 +14,6 @@ let songIndex = 0;
 // Songs info
 const songs = [
   {
-    title: 'Greatest Songs',
-    artist: 'Elevation Worship',
-    coverPath: 'assets/images/cover1.jpg',
-    discPath: 'assets/music/music12.mp3',
-    duration: '1:54',
-  },
-  {
     title: 'One Name',
     artist: 'Naomi Raine',
     coverPath: 'assets/images/cover1.jpg',
@@ -95,6 +88,14 @@ const songs = [
     artist: 'Benjamin Dube FT Spirit of Praise',
     coverPath: 'assets/images/cover2.jpg',
     discPath: 'assets/music/music6.mp3',
+    duration: '1:54',
+  },
+  
+  {
+    title: 'Greatest Songs',
+    artist: 'Hezekiah Walker',
+    coverPath: 'assets/images/cover1.jpg',
+    discPath: 'assets/music/Hezekiah Walker 'Faithful is Our God' Awesome Praise Break.mp3',
     duration: '1:54',
   },
 ];
